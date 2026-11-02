@@ -6,6 +6,12 @@
 
 ### ✨ אתר בוטיק פרחים בעברית, עם הזמנה ישירה ב-WhatsApp ✨
 
+<a href="https://aa918.github.io/flowers/">
+  <img src="https://img.shields.io/badge/🌐_לצפייה_באתר_החי-לחצו_כאן-d94f70?style=for-the-badge" alt="לצפייה באתר החי" height="42" />
+</a>
+
+<br /><br />
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -106,7 +112,9 @@
 
 ## 🚀 הרצה
 
-אין מה להתקין:
+🌐 **האתר באוויר:** https://aa918.github.io/flowers/
+
+רוצים להריץ אצלכם? אין מה להתקין:
 
 ```bash
 git clone https://github.com/aa918/flowers.git
@@ -115,7 +123,7 @@ cd flowers
 
 ואז פשוט פותחים את `index.html` בדפדפן. 🎉
 
-> 💡 **טיפ:** אפשר להעלות את האתר בחינם ל-**GitHub Pages** או ל-**Netlify**, כי זה קובץ סטטי אחד.
+> 💡 **טיפ:** האתר מתארח בחינם ב-**GitHub Pages**. כל דחיפה ל-`main` מעדכנת אותו אוטומטית.
 
 ---
 
